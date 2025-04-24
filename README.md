@@ -46,7 +46,7 @@ flowchart TD
 ### 1. Clonar o projeto
 
 ```bash
-git clone https://github.com/luansantosco/go-keycloak-auth.git
+git clone https://github.com/luansantosco/go-keycloak-microfrontend.git
 cd goauth
 ```
 
